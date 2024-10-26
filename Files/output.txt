@@ -1,0 +1,5 @@
+Hello my name is John. This is a sample text file for reading node js.
+
+The content of this file will be appended to the content of input.txt and will be written in the output.txt file
+
+Date Created Wed Oct 16 2024 20:10:24 GMT+0100 (West Africa Standard Time)
